@@ -4,7 +4,7 @@ const radius = 10;
 const styles = StyleSheet.create({
   container: {
     ...StyleSheet.absoluteFillObject,
-
+    elevation: 1000,
     backgroundColor: 'transparent',
     overflow: 'hidden',
   },
